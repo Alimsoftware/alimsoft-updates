@@ -6,7 +6,7 @@
   "apkUrl": "https://github.com/USER/REPO/releases/download/v1.0/meumod.apk",
   "size": 83022924,
   "sha256": "a8ef1cd2a7ab5c2441d97f5c710160d26efcd79e06b57942ab40d664dc911538",
-  "mandatory": true,
+  "mandatory": false,
   "minSupportedCode": 1006011,
   "releaseDate": "2026-09-05",
   "changelog": [
