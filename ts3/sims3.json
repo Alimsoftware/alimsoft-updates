@@ -1,22 +1,16 @@
 {
-  "versionCode": 1,
+  "versionCode": 1006012,
   "versionName": "1.6.11-r1",
   "package": "com.eamobile.sims3_row_qwf",
-  "minSdk": 26,
+  "minSdk": 21,
   "apkUrl": "https://github.com/USER/REPO/releases/download/v1.0/meumod.apk",
-  "size": 108958,
-  "sha256": "4039a5a8466fb367eb9d4780e5c058283e48638a5cc04611415b486d3337c5a0",
+  "size": 83022924,
+  "sha256": "a8ef1cd2a7ab5c2441d97f5c710160d26efcd79e06b57942ab40d664dc911538",
   "mandatory": true,
-  "minSupportedCode": 0,
+  "minSupportedCode": 1006011,
   "releaseDate": "2026-09-05",
   "changelog": [
-    {
-      "type": "fix",
-      "text": "teste"
-    },
-    {
-      "type": "",
-      "text": "solto"
-    }
+    {"type": "fix", "text": "Corrigido o arquivo de idioma pt_BR"},
+    {"type": "feature", "text": "Adicionado sistema de atualizações"}
   ]
 }
