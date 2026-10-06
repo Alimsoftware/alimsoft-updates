@@ -1,9 +1,9 @@
 {
-  "versionCode": 1006011,
+  "versionCode": 1006012,
   "versionName": "1.6.11-r1",
   "package": "com.eamobile.sims3_row_qwf",
   "minSdk": 21,
-  "apkUrl": "https://github.com/USER/REPO/releases/download/v1.0/meumod.apk",
+  "apkUrl": "https://github.com/Alimsoftware/alimsoft-updates/releases/download/v1.6.11/sims3-1.6.11_arm64.apk",
   "size": 81368163,
   "sha256": "3e0ca8c01657e11a49270d2d09d375192b0a0d6fb5ef6abfe5488dcc77906006",
   "mandatory": false,
