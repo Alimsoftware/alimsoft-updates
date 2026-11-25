@@ -1,1 +1,15 @@
-
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "package": "br.alimsoft.simsmedieval",
+  "minSdk": 26,
+  "apkUrl": "https://github.com/Alimsoftware/alimsoft-updates/releases/download/sm-1.0/SimsMedieval-1.0.apk",
+  "size": 0,
+  "sha256": "SUBSTITUA_PELO_SHA256_DO_APK_(use tools/make_update_json.py)",
+  "mandatory": false,
+  "minSupportedCode": 0,
+  "releaseDate": "2026-11-25",
+  "changelog": [
+    { "type": "feature", "text": "Primeira versão em português." }
+  ]
+}
